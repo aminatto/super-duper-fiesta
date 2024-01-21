@@ -1,0 +1,12 @@
+C:\dev\POCMongoDB\POCMongoDBOId.Core\bin\Debug\net7.0\POCMongoDBId.Core.deps.json
+C:\dev\POCMongoDB\POCMongoDBOId.Core\bin\Debug\net7.0\POCMongoDBId.Core.dll
+C:\dev\POCMongoDB\POCMongoDBOId.Core\bin\Debug\net7.0\POCMongoDBId.Core.pdb
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.AssemblyInfoInputs.cache
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.AssemblyInfo.cs
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.csproj.CoreCompileInputs.cache
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.dll
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\refint\POCMongoDBId.Core.dll
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.pdb
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\ref\POCMongoDBId.Core.dll
+C:\dev\POCMongoDB\POCMongoDBOId.Core\obj\Debug\net7.0\POCMongoDBId.Core.csproj.AssemblyReference.cache
